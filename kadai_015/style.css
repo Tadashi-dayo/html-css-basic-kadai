@@ -1,10 +1,10 @@
 body{
   font-family: "Arial", "Meiryo", sans-serif ;
+  text-align: center;
 }
 
 html{
   font-size: 20px;
-  text-align: center;
 }
 
 .blue {
@@ -23,8 +23,8 @@ h1{
 
   font-size: 2rem;
   letter-spacing: 1.2em;
-  text-shadow: 5px 5px 5px grey;
-  border-bottom:3px solid rgb(155,155,114)
+  text-shadow: 2px 5px 5px grey;
+  text-decoration: underline 3px rgb(115,115,114);
 }
 
 #basic > p{
